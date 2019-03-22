@@ -2,4 +2,4 @@ A compatibility-based "FriendFinder" application. This full-stack site will take
 
 <img src= "./app/public/ff1.png">
 
-<img src= "./app/public/ff2.png">
+<img src= "/app/public/ff2.png">

@@ -1,7 +1,7 @@
 var friends = [ {
     "name" : "Jan",
     "photo" : "../public/01.jpg",
-    "scores" : [3,4,2,5,4,1,,2,4,1,5]
+    "scores" : [3,4,2,5,4,1,2,4,1,5]
 }, {
     "name" : "Sally",
     "photo" : "../public/02.jpg",

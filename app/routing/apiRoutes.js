@@ -7,7 +7,6 @@ module.exports = function (app) {
   
   app.post('/api/friends', function (req, res) {
       var newFriend = req.body;
-      console.log('newFreind:',newFriend)
       var bestMatch = {};
       for(var i = 0; i < newFriend.scores.length; i++) {
         if(newFriend.scores[i] == "1 (Disagree)") {
